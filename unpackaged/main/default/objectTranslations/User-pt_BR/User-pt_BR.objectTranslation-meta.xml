@@ -16,4 +16,14 @@
             <section>Language And Locale Settings</section>
         </sections>
     </layouts>
+    
+    
+    
+    
+    
+    
+    <webLinks>
+        <label><!-- Select_Theme --></label>
+        <name>SBQQ__Select_Theme</name>
+    </webLinks>
 </CustomObjectTranslation>
