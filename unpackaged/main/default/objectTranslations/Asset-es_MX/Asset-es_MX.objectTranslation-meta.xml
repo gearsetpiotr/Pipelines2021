@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    <layouts>
+        <layout>Asset Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label><!-- custom_detail_page_link_1 --></label>
+        <name>custom_detail_page_link_1</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- custom_detail_page_link_2 --></label>
+        <name>custom_detail_page_link_2</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- custom_detail_page_link_3 --></label>
+        <name>custom_detail_page_link_3</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- test_detail_page_button_1 --></label>
+        <name>test_detail_page_button_1</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- test_list_button_1 --></label>
+        <name>test_list_button_1</name>
+    </webLinks>
+</CustomObjectTranslation>

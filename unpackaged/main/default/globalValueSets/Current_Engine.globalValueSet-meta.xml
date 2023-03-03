@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Airplane</fullName>
+        <default>true</default>
+        <label>Airplane</label>
+    </customValue>
+    <customValue>
+        <fullName>British Airways</fullName>
+        <default>false</default>
+        <label>British Airways</label>
+    </customValue>
+    <customValue>
+        <fullName>EasyJet</fullName>
+        <default>false</default>
+        <label>EasyJet</label>
+    </customValue>
+    <customValue>
+        <fullName>LOT</fullName>
+        <default>false</default>
+        <label>LOT</label>
+    </customValue>
+    <customValue>
+        <fullName>MARS</fullName>
+        <default>false</default>
+        <label>MARS</label>
+    </customValue>
+    <customValue>
+        <fullName>Ryanair</fullName>
+        <default>false</default>
+        <label>Ryanair</label>
+    </customValue>
+    <customValue>
+        <fullName>Tomahawk</fullName>
+        <default>false</default>
+        <label>Tomahawk</label>
+    </customValue>
+    <customValue>
+        <fullName>Virgin Atlantic</fullName>
+        <default>false</default>
+        <label>Virgin Atlantic</label>
+    </customValue>
+    <customValue>
+        <fullName>Rover</fullName>
+        <default>false</default>
+        <label>Rover</label>
+    </customValue>
+    <customValue>
+        <fullName>Bicycle</fullName>
+        <default>false</default>
+        <label>Bicycle</label>
+    </customValue>
+    <masterLabel>Current_Engine</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

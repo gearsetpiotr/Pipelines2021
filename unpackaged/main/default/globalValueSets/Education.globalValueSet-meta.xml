@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>chemistry</fullName>
+        <default>true</default>
+        <label>chemistry</label>
+    </customValue>
+    <customValue>
+        <fullName>english</fullName>
+        <default>false</default>
+        <label>english</label>
+    </customValue>
+    <customValue>
+        <fullName>french</fullName>
+        <default>false</default>
+        <label>french</label>
+    </customValue>
+    <customValue>
+        <fullName>geography</fullName>
+        <default>false</default>
+        <label>geography</label>
+    </customValue>
+    <customValue>
+        <fullName>history</fullName>
+        <default>false</default>
+        <label>history</label>
+    </customValue>
+    <customValue>
+        <fullName>maths</fullName>
+        <default>false</default>
+        <label>maths</label>
+    </customValue>
+    <masterLabel>Education</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
