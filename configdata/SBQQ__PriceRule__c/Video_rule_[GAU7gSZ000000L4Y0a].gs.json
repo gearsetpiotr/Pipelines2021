@@ -1,0 +1,25 @@
+{
+  "Object": "SBQQ__PriceRule__c",
+  "Fields": {
+    "GearsetDisplayName": "Video rule",
+    "GearsetExternalId__c": "GAU7gSZ000000L4Y0a",
+    "Name": "Video rule",
+    "SBQQ__Active__c": "true",
+    "SBQQ__AdvancedCondition__c": "",
+    "SBQQ__ConditionsMet__c": "Any",
+    "SBQQ__ConfiguratorEvaluationEvent__c": "Save",
+    "SBQQ__EvaluationEvent__c": "On Calculate",
+    "SBQQ__EvaluationOrder__c": "",
+    "SBQQ__LookupObject__c": "",
+    "SBQQ__TargetObject__c": "Calculator"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "YAQIEz8100000L4t10"
+      }
+    }
+  ]
+}

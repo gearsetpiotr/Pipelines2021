@@ -1,0 +1,45 @@
+{
+  "Object": "SBQQ__DiscountSchedule__c",
+  "Fields": {
+    "GearsetDisplayName": "Bulk Paper",
+    "GearsetExternalId__c": "CAUp6dQ000000L4F0a",
+    "Name": "Bulk Paper",
+    "SBQQ__AggregationScope__c": "",
+    "SBQQ__ConstraintField__c": "RecentPurchase__c",
+    "SBQQ__CrossOrders__c": "true",
+    "SBQQ__CrossProducts__c": "false",
+    "SBQQ__Description__c": "",
+    "SBQQ__DiscountUnit__c": "Percent",
+    "SBQQ__ExcludedPricebookIds__c": "",
+    "SBQQ__IncludeBundledProducts__c": "false",
+    "SBQQ__OverrideBehavior__c": "",
+    "SBQQ__PriceScale__c": "2.0",
+    "SBQQ__QuoteLineQuantityField__c": "Quantity",
+    "SBQQ__Type__c": "Range",
+    "SBQQ__UsePriceForAmount__c": "false",
+    "SBQQ__UserDefined__c": "false"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__OriginalDiscountSchedule__r",
+      "ReferencedObject": "SBQQ__DiscountSchedule__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__Pricebook__r",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ]
+}
