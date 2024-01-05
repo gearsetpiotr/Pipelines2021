@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Accent__c</fullName>
+    <externalId>false</externalId>
+    <label>Accent</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Light Gray</fullName>
+                <default>true</default>
+                <label>Light Gray</label>
+            </value>
+            <value>
+                <fullName>Dark Gray</fullName>
+                <default>false</default>
+                <label>Dark Gray</label>
+            </value>
+            <value>
+                <fullName>Gold</fullName>
+                <default>false</default>
+                <label>Gold</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
